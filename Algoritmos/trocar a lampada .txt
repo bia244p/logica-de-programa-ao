@@ -1,0 +1,8 @@
+1- pegar uma cadeira 
+2- subir na cadeira 
+3- pegar a lâmpada queimada 
+4- girar a lâmpada no sentido anti horário
+5- jogar a lâmpada no lixo certo 
+6- pegar a lâmpada nova 
+7- encaixar a lâmpada girando no sentido horário 
+8-sair da cadeira e pronto 

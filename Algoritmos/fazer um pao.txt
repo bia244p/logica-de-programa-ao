@@ -1,0 +1,7 @@
+1- pagar um prato 
+2- pegar um pao 
+3- pegar os ingredientes que vc quer 
+4- adicionar um pao no prato 
+5- colocar os ingredientes no pao 
+6- fechar o pao 
+7- comer o pao 

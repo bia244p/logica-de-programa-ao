@@ -1,0 +1,9 @@
+1- pegar ferramenta (macaco) 
+2- posicionar a ferramenta ao lado do pneu desejado para a troca
+3- pegar a ferramenta (chave de roda) 
+4- encachar a chave de roda no macaco
+5- gira no sentido horário 
+6- girar ate o pneu desejado estiver fora do chao 
+7- pegar a ferramenta  desparafusar os pinos que vai no pneu
+8- Colocar o pneu novo
+9- tirar o macaco de baixo do carro 
